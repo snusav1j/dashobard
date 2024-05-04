@@ -1,5 +1,5 @@
 # dashobard
-Mini adaptive dashboard web app on flask
+Mini adaptive dashboard web app on flask (+ bybit api)
 
 ________________________________________
 Desktop
